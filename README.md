@@ -1,1 +1,1 @@
-# GenAI_App
+# MCQ_APP
